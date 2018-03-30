@@ -3,8 +3,8 @@
   description: Package design for a small batch beer series.
   file_name: volcano_bottles@2x
   type: .jpg
-  height: 496
-  width: 530
+  height: 562
+  width: 600
   max_res: 2 
   
 - title: Volcanic Beer
@@ -12,8 +12,8 @@
   description: Package design for a small batch beer series.
   file_name: beer_labels@2x
   type: .jpg
-  height: 530
-  width: 530
+  height: 600
+  width: 600
   max_res: 2
   
 - title: One False Move
@@ -21,8 +21,8 @@
   description: Poster design for the One False Move EP release show.
   file_name: ofm_poster@2x
   type: .jpg
-  height: 530
-  width: 343
+  height: 600
+  width: 388
   max_res: 2
   
 - title: KD9
@@ -30,8 +30,8 @@
   description: Promotional poster for the Nike KD9.
   file_name: kd11@2x
   type: .jpg
-  height: 530
-  width: 530
+  height: 600
+  width: 600
   max_res: 2
 
 - title: VaporMax
@@ -39,8 +39,8 @@
   description: Promotional poster for the upcoming Nike shoe, arriving Spring, 2017.
   file_name: vapormax@2x
   type: .jpg
-  height: 351
-  width: 530
+  height: 397
+  width: 600
   max_res: 2
   
 - title: Low Poly Future
@@ -48,8 +48,8 @@
   description: Digital illustration just for the hell of it.
   file_name: poly3@2x
   type: .jpg
-  height: 530
-  width: 440
+  height: 498
+  width: 600
   max_res: 2
   
 - title: Leviathan
@@ -57,8 +57,8 @@
   description: Another digital illustration in a series.
   file_name: whale@2x
   type: .jpg
-  height: 398
-  width: 530
+  height: 451
+  width: 600
   max_res: 2
   
 - title: Reflektive Infographic
@@ -66,16 +66,16 @@
   description: Infographics for Reflektive, an employee performance, engagement and analytics platform. http://blog.reflektive.com/performance-management-best-practices
   file_name: infographic@2x
   type: .jpg
-  height: 530
-  width: 530
+  height: 600
+  width: 600
   max_res: 2
   
 - title: Stipe Miocic
   media: Poster Design
   description: Promotional image for Stipe Miocic, the UFC heavyweight champion.
   file_name: Stipe1@2x
-  height: 530
-  width: 530
+  height: 600
+  width: 600
   max_res: 2
     
 - title: Oceansize
@@ -83,8 +83,8 @@
   description: Gig poster for the late, great English band Oceansize..
   file_name: oceansize1@2x
   type: .jpg
-  height: 530
-  width: 245
+  height: 600
+  width: 277
   max_res: 2
 
 - title: Captain America 75th Anniversary
@@ -92,8 +92,8 @@
   description: One-page magazine ad, celebrating Captain America's 75th Anniversary.
   file_name: captain_america_75th_anniversary@2x
   type: .jpg
-  height: 530
-  width: 398
+  height: 600
+  width: 451
   max_res: 2
   
 - title: Tenth of December
@@ -101,8 +101,8 @@
   description: Book cover design for the short story collection by George Saunders.
   file_name: tenth_of_december@2x
   type: .jpg
-  height: 530
-  width: 347
+  height: 600
+  width: 393
   max_res: 2
   
 - title: Wasp
@@ -110,8 +110,8 @@
   description: Wasp logo designed following the proportions of the Golden Ratio.
   file_name: Wasp@2x
   type: .jpg
-  height: 515
-  width: 515
+  height: 535
+  width: 535
   max_res: 2
   
 - title: Carousel
@@ -119,8 +119,8 @@
   description: Carousel logo design.
   file_name: Carousel@2x
   type: .jpg
-  height: 515
-  width: 515
+  height: 535
+  width: 535
   max_res: 2
     
 - title: Wildwood Adventures
@@ -128,8 +128,8 @@
   description: Logo design for Wildwood Adventures, a tour company in Portland, OR www.wildwoodtours.com
   file_name: wildwood_logo@2x
   type: .jpg
-  height: 320
-  width: 530
+  height: 362
+  width: 600
   max_res: 2
   
 - title: R Mark
@@ -137,8 +137,8 @@
   description: R Lettermark.
   file_name: R@2x
   type: .jpg
-  height: 515
-  width: 515
+  height: 535
+  width: 535
   max_res: 2
     
 - title: Satyr Pale Ale
@@ -146,8 +146,8 @@
   description: Logo for Satyr Pale Ale, by Rupert's Brew House, in Kalamazoo, Michigan
   file_name: satyr_logo@2x
   type: .jpg
-  height: 530
-  width: 416
+  height: 600
+  width: 471
   max_res: 2
 
 - title: Sabzee
@@ -155,8 +155,8 @@
   description: Logo design for the bolani (an Afghani-style turnover) vegetarian food truck in San Francisco www.sabzeefoods.com
   file_name: sabzee@2x
   type: .jpg
-  height: 184
-  width: 530
+  height: 208
+  width: 600
   max_res: 2
   
 - title: Co-Main Event Podcast
@@ -164,8 +164,8 @@
   description: Logo design and variations for the MMA podcast The Co-Main Event, featuring Ben Fowlkes and Chad Dundas.
   file_name: cme4@2x
   type: .jpg
-  height: 513
-  width: 530
+  height: 581
+  width: 600
   max_res: 2
     
 - title: Sneaky Sexy Mama
@@ -173,8 +173,8 @@
   description: Logo design for the new mom-oriented health and fitness blog.
   file_name: sneaky_sexy3@2x
   type: .jpg
-  height: 271
-  width: 530
+  height: 307
+  width: 600
   max_res: 2
     
 - title: Belme and Brothers Brewing Co.
@@ -182,8 +182,8 @@
   description: Logo design for a brewing startup in Auburn, CA.
   file_name: belme@2x
   type: .jpg
-  height: 530
-  width: 530
+  height: 600
+  width: 600
   max_res: 2
     
 - title: Frozen Free Fall Pandora Ad
@@ -191,8 +191,8 @@
   description: One of many mobile ads, this one for Pandora
   file_name: frozen_pandora@2x
   type: .jpg
-  height: 530
-  width: 283
+  height: 600
+  width: 320
   max_res: 2
   
 - title: Deftones
@@ -200,8 +200,8 @@
   description: Promotional poster for the band Deftones.
   file_name: geodesic_basket@2x
   type: .jpg
-  height: 530
-  width: 385
+  height: 600
+  width: 436
   max_res: 2
   
 - title: WSOP USA Today Ad
@@ -209,8 +209,8 @@
   description: Half-page newspaper ad for the online social game ESPN’s World Series of Poker, which ran in USA Today.
   file_name: WSOP_usa_today@2x
   type: .jpg
-  height: 337
-  width: 530
+  height: 382
+  width: 600
   max_res: 2
   
 - title: Mount Hood
@@ -218,8 +218,8 @@
   description: Promotional poster extolling glorious Mt. Hood.
   file_name: mt_hood_poster@2x
   type: .jpg
-  height: 530
-  width: 444
+  height: 600
+  width: 503
   max_res: 2
   
 - title: Co-Main Event Podcast
@@ -227,8 +227,8 @@
   description: Promotional poster design for the Co-Main Event Podcast, with Chad Dundas of ESPN.com and Ben Fowlkes of USA Today. www.comainevent.com/about-us/
   file_name: cme_poster@2x
   type: .jpg
-  height: 530
-  width: 402
+  height: 600
+  width: 455
   max_res: 2
     
 - title: JRE Space Chimpanzee
@@ -236,8 +236,8 @@
   description: Promotional poster for the Joe Rogan Experience podcast.
   file_name: rogan@2x
   type: .jpg
-  height: 530
-  width: 440
+  height: 600
+  width: 498
   max_res: 2
   
 - title: MAA2 X Games Poster
@@ -245,8 +245,8 @@
   description: Large-scale print poster shown at X Games events.
   file_name: MAA2_X_Games_sign@2x
   type: .jpg
-  height: 530
-  width: 354
+  height: 600
+  width: 401
   max_res: 2
     
 - title: MAA2 Large Banners
@@ -254,8 +254,8 @@
   description: Large-scale print banners promoting the game, shown at various conventions.
   file_name: maa2_banners@2x
   type: .jpg
-  height: 530
-  width: 428
+  height: 600
+  width: 485
   max_res: 2
   
 - title: MIB Taco Party
@@ -263,8 +263,8 @@
   description: Promotional poster for Michael Ian Black's push to become the official spokesperson of Taco Bell.
   file_name: taco_party@2x
   type: .jpg
-  height: 530
-  width: 412
+  height: 600
+  width: 466
   max_res: 2
   
 - title: 395 Luau Poster
@@ -272,8 +272,8 @@
   description: Poster for the annual AOL building carnival and BBQ
   file_name: 395luau
   type: .jpg
-  height: 530
-  width: 412
+  height: 600
+  width: 466
   max_res: 2
 
 - title: YOWHATUP
@@ -281,8 +281,8 @@
   description: Promotional poster for Erik Ebeling Graphic Design, featuring Magnus, my parents’ beastish brown labrador.
   file_name: yowhatup@2x
   type: .jpg
-  height: 530
-  width: 398
+  height: 600
+  width: 451
   max_res: 2
     
 - title: Night of the Virgin
@@ -290,8 +290,8 @@
   description: Book jacket spread illustration and design for The Night of the Virgin, by Elliott Turner.
   file_name: elliott_virgin@2x
   type: .jpg
-  height: 374
-  width: 530
+  height: 423
+  width: 600
   max_res: 2
   
 - title: An Illustrated Guide to Soccer and Spanish
@@ -299,8 +299,8 @@
   description: Cover design and illustration, plus 40 quarter-page illustrations for the eBook An Illustrated Guide to Soccer and Spanish, by Elliott Turner, available on the Kindle and Nook.
   file_name: elliott_soccer@2x
   type: .jpg
-  height: 441
-  width: 530
+  height: 499
+  width: 600
   max_res: 2
     
 - title: Duncan
@@ -308,8 +308,8 @@
   description: Duncan refuses to drink anything but the finest craft beers. He will look down on anyone who acts otherwise.
   file_name: duncan@2x
   type: .jpg
-  height: 530
-  width: 404
+  height: 600
+  width: 457
   max_res: 2
   
 - title: Chase
@@ -317,8 +317,8 @@
   description: Highly self satisfied, completely unimpressed.
   file_name: chase@2x
   type: .jpg
-  height: 396
-  width: 530
+  height: 448
+  width: 600
   max_res: 2
   
 - title: K.C.
@@ -326,8 +326,8 @@
   description: K.C. smugly presented this portrait to his owner as though he had painted it himself. Such arrogance.
   file_name: kc@2x
   type: .jpg
-  height: 530
-  width: 457
+  height: 600
+  width: 517
   max_res: 2
     
 - title: Octopus
@@ -335,8 +335,8 @@
   description: Large-scale print of one of the strangest and most fascinating creatures on earth.
   file_name: octopus@2x
   type: .jpg
-  height: 398
-  width: 530
+  height: 451
+  width: 600
   max_res: 2
   
 - title: MMA Mount Rushmore
@@ -344,8 +344,8 @@
   description: Illustration for an article on the MMA website Sherdog.com, discussing the most important fighters of all time. 
   file_name: mmarushmore@2x
   type: .jpg
-  height: 354
-  width: 530
+  height: 401
+  width: 600
   max_res: 2
   
 - title: Sensory Deprivation Tank
@@ -353,8 +353,8 @@
   description: A chimpanzee contemplates existence in the void.
   file_name: chimp_tank@2x
   type: .jpg
-  height: 450
-  width: 530
+  height: 509
+  width: 600
   max_res: 2
 
 - title: Shark hunter
@@ -362,7 +362,7 @@
   description: Your standard demon warrior hunting atop a great white shark.
   file_name: sharkhunter@2x
   type: .jpg
-  height: 527
-  width: 530
+  height: 597
+  width: 600
   max_res: 2
   
