@@ -147,6 +147,14 @@
   width: 600
   max_res: 2
   
+- title: Seven Fingers
+  media: Gypsum
+  file_name: sevenfingers
+  type: .gif
+  height: 600
+  width: 591
+  max_res: 2
+  
 - title: Dive
   media: Gypsum
   file_name: divearound
