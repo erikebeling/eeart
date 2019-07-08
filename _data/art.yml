@@ -1,3 +1,11 @@
+- title: Viking Warrior
+  media: Cast Aquaresin
+  file_name: viking@2x
+  type: .jpg
+  height: 600
+  width: 450
+  max_res: 2
+  
 - title: Pacific
   media: Oil on Canvas
   file_name: pacific@2x
