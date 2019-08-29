@@ -6,6 +6,14 @@
   width: 550
   max_res: 2
   
+  - title: Mermaid
+  media: Cast Aquaresin
+  file_name: mermaid@2x
+  type: .jpg
+  height: 550
+  width: 465
+  max_res: 2
+  
 - title: Pacific
   media: Oil on Canvas
   file_name: pacific@2x
