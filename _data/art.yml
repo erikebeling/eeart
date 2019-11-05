@@ -6,6 +6,14 @@
   width: 550
   max_res: 2
   
+- title: Minotaur
+  media: Cast Aquaresin
+  file_name: minotaur@2x
+  type: .jpg
+  height: 550
+  width: 476
+  max_res: 2
+  
 - title: Mermaid
   media: Cast Aquaresin
   file_name: mermaid@2x
