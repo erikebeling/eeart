@@ -1,4 +1,12 @@
-- title: Viking Warrior
+- title: Viking Warrior 
+  media: Cast Aqua Resin
+  file_name: large-viking@2x
+  type: .jpg
+  height: 550
+  width: 329
+  max_res: 2
+  
+  - title: Viking Warrior Study
   media: Cast Aqua Resin
   file_name: viking@2x
   type: .jpg
