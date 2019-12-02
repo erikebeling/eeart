@@ -99,14 +99,6 @@
   width: 600
   max_res: 2
 
-- title: Tiny Succulent
-  media: Oil on Canvas
-  file_name: tiny_succulent@2x
-  type: .jpg
-  height: 600
-  width: 401
-  max_res: 2
-
 - title: Sentry
   media: Oil on Canvas
   file_name: setry@2x
@@ -144,14 +136,6 @@
   file_name: boulder_lake@2x
   type: .jpg
   height: 435
-  width: 600
-  max_res: 2
-  
-- title: 4:16
-  media: Oil on Canvas
-  file_name: 416@2x
-  type: .jpg
-  height: 497
   width: 600
   max_res: 2
 
@@ -211,12 +195,5 @@
   width: 451
   max_res: 2
 
-- title: Indian Head
-  media: Clay, Cast Stone
-  file_name: indian_head@2x
-  type: .jpg
-  height: 312
-  width: 600
-  max_res: 2
 
 
