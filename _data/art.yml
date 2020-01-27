@@ -22,20 +22,20 @@
   width: 475
   max_res: 2
   
-- title: Minotaur Study
-  media: Cast Aqua Resin
-  file_name: minotaur@2x
-  type: .jpg
-  height: 490
-  width: 424
-  max_res: 2
-  
 - title: Mermaid
   media: Bronze
   file_name: mermaidbronze@2x
   type: .jpg
   height: 550
   width: 332
+  max_res: 2
+  
+- title: Minotaur Study
+  media: Cast Aqua Resin
+  file_name: minotaur@2x
+  type: .jpg
+  height: 478
+  width: 414
   max_res: 2
   
 - title: Pacific
