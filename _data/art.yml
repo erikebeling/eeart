@@ -31,11 +31,11 @@
   max_res: 2
   
 - title: Mermaid
-  media: Cast Aqua Resin
-  file_name: mermaid@2x
+  media: Bronze
+  file_name: mermaidbronze@2x
   type: .jpg
   height: 550
-  width: 465
+  width: 332
   max_res: 2
   
 - title: Pacific
