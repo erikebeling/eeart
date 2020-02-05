@@ -1,5 +1,5 @@
 - title: Minotaur 
-  media: Clay
+  media: Cast Resin Composite
   file_name: minotaurlarge@2x
   type: .jpg
   height: 550
@@ -7,7 +7,7 @@
   max_res: 2
   
 - title: Viking Warrior 
-  media: Cast Aqua Resin
+  media: Cast Resin Composite
   file_name: large-viking@2x
   type: .jpg
   height: 550
@@ -31,7 +31,7 @@
   max_res: 2
   
 - title: Minotaur Study
-  media: Cast Aqua Resin
+  media: Cast Resin Composite
   file_name: minotaur@2x
   type: .jpg
   height: 478
