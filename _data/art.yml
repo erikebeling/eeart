@@ -14,6 +14,14 @@
   width: 419
   max_res: 2
   
+- title: Gaia 
+  media: Cast Resin Composite
+  file_name: gaia@2x
+  type: .jpg
+  height: 550
+  width: 387
+  max_res: 2
+  
 - title: Viking Warrior 
   media: Cast Resin Composite
   file_name: large-viking@2x
