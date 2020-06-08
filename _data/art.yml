@@ -22,6 +22,14 @@
   width: 387
   max_res: 2
   
+- title: Berserker 
+  media: Cast Resin Composite
+  file_name: Berserker@2x
+  type: .jpg
+  height: 550
+  width: 402
+  max_res: 2
+  
 - title: Viking Warrior 
   media: Cast Resin Composite
   file_name: large-viking@2x
