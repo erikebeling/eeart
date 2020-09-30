@@ -30,6 +30,22 @@
   width: 402
   max_res: 2
   
+- title: Macaque 
+  media: Cast Resin Composite
+  file_name: monkey@2x
+  type: .jpg
+  height: 530
+  width: 481
+  max_res: 2
+  
+- title: Hephaestus 
+  media: Cast Resin Composite
+  file_name: hephaestus@2x
+  type: .jpg
+  height: 530
+  width: 356
+  max_res: 2
+  
 - title: Viking Warrior 
   media: Cast Resin Composite
   file_name: large-viking@2x
